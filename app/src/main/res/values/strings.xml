@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UI_using_JetpackCompose</string>
+    <string name="go_back">Go back</string>
+    <string name="login">Login</string>
 </resources>

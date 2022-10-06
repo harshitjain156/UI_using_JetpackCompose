@@ -1,5 +1,4 @@
-# UI_using_JetpackCompose
-This repo helps for learning about ui development using jetpack compose. anyone can share their ui here
+
 
 # UI_using_JetpackCompose
 This repo helps for learning about ui development using jetpack compose. anyone can share their ui here

@@ -86,6 +86,12 @@ In this application we are creating for learni UI development using Jetpack Comp
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+#how to CONTRIBUTe
+[ watch video ]
+(https://youtu.be/y_lC717oOlk )
+
+
+
 
 <!-- CONTACT -->
 ## Contact
